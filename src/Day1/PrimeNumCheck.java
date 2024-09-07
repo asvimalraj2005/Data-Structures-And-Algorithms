@@ -1,3 +1,5 @@
+package Day1;
+
 public class PrimeNumCheck {
     public static void main(String[] args) {
         /*
